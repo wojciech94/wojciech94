@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Wojciech and I looking for a job as frontend developer.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-wojciech94/wojciech94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Wojciech and I’m looking for a job as frontend developer.
+- 👀 I’m interested in investing, automobiles and blockchain technology.
+- 🌱 In my spare time, I develop my skills as a frontend developer.
+- 📈 In my projects I try to write clean code based on good practices and the most up-to-date technologies.
+- 📫 If you want to learn more, please feel free to contact me at wojciech.kokoszka25@gmail.com
