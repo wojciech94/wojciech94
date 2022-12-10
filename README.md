@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Wojciech and I’m looking for a job as frontend developer.
+- 👋 Hi, I’m Wojciech and I’m junior frontend developer.
 - 👀 I’m interested in investing, automobiles and blockchain technology.
 - 🌱 In my spare time, I develop my skills as a frontend developer.
 - 📈 In my projects I try to write clean code based on good practices and the most up-to-date technologies.
